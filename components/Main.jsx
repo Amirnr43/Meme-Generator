@@ -71,8 +71,6 @@ export default function Main(){
         link.click(); // Simulate click to download
     };
 
-
-    
    return(
         <main>
             <div className="form">
