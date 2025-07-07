@@ -4,12 +4,6 @@ Quickly create hilarious memes with your custom text overlay on random images. B
 
 ---
 
-## 🚀 Live Demo
-
-Try it out: *[Insert your live deployment link here — e.g. Netlify, Vercel, GitHub Pages]*
-
----
-
 ## 🎯 Features
 
 - 🖼️ **Random meme images** loaded from an external API  
