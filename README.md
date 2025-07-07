@@ -1,7 +1,8 @@
 # 😂 Meme Generator — React + Vite
 
 Quickly create hilarious memes with your custom text overlay on random images. Built using **React** and **Vite**, this app is lightweight, fast, and fun to use.
-
+---
+![localhost_5173_](https://github.com/user-attachments/assets/8b3cad68-c842-4282-8ed3-3602d2b6fbce)
 ---
 
 ## 🎯 Features
@@ -20,7 +21,8 @@ Quickly create hilarious memes with your custom text overlay on random images. B
 |------------------|----------------------------------------|
 | **React**         | UI & state management                 |
 | **Vite**          | Lightning-fast build & dev server     |
-| **fetch API**     | Get memes from an external endpoint   |
+| **fetch API**     | Get
+ memes from an external endpoint   |
 | **CSS / Flexbox** | Simple, clean, & responsive styling   |
 
 ---
